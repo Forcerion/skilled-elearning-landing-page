@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+
+header .button-start {
+    background-color: #13183F;
+    color: white;
+}
+
+a {
+    padding-top: 16px;
+    padding-left: 32px;
+    padding-bottom: 16px;
+    padding-right: 32px;
+    border-radius: 28px;
+    text-decoration: none;
+}
+
+header {
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+h1 {
+    max-width: 457px;
+    height: 245px;
+}
+
+.motivation-text {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    background-color: red;
+    max-width: 457px;
+    height: 245px;
+}
+
+.title {
+    font-size: 56px; 
+    color: #13183F;
+    word-spacing: 24px;
+    font-weight: 800px;
+}
+
+.sous-text {
+    font-size: 18px;
+    color: #83869A;
+}
+
+.general {
+    background-color: green;
+}
+
+.get-start2 {
+    background-color: black;
+} 
+
+.img {
+    width: 50px;
+    margin-left: 50px;
+}
+
+.main {
+    flex-direction: row;
+    margin-left: 15px;
+}
+
